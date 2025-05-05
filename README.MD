@@ -84,7 +84,7 @@ streamlit run app.py
 
 ## 👨‍💼 Author
 
-🔗 [LinkedIn](https://linkedin.com/in/harshal192) • [GitHub](https://github.com/lostdir)
+🔗 [LinkedIn](https://linkedin.com/in/harshalkh192) • [GitHub](https://github.com/lostdir)
 
 ---
 
