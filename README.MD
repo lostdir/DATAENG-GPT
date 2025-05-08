@@ -1,4 +1,4 @@
-# 🏍️ DataEngineerGPT Chat Bot
+# 🤖 DataEngineerGPT Chat Bot
 
 **DataEngineerGPT** is a highly specialized Streamlit chatbot powered by advanced LLMs hosted on Groq Cloud. Designed for data engineering, DevOps, and cloud architecture support, this assistant provides real-time, context-aware help with building and debugging production-grade data systems.
 
