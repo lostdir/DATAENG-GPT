@@ -39,7 +39,7 @@ st.markdown(
 )
 
 # Initialize Groq client
-client = Groq(api_key=st.secrets['GROQ_API_KEY'])
+client = Groq(api_key=st.secrets['GROQ_API_KEY2'])
 
 # Session state initialization
 if 'messages' not in st.session_state:
